@@ -1,3 +1,8 @@
+'''
+Creates reference file of all possible combinations for Big Papi screens 
+Author: Mudra Hegde
+Email: mhegde@broadinstitute.org
+'''
 import pandas as pd
 import csv, argparse
 
